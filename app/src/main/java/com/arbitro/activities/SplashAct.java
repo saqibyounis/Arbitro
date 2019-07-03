@@ -24,14 +24,14 @@ public class SplashAct extends AwesomeSplash {
         //Choose LOGO OR PATH; if you don't provide String value for path it's logo by default
 
         //Customize Logo
-        configSplash.setLogoSplash(R.drawable.logo_150x150); //or any other drawable
+        configSplash.setLogoSplash(R.drawable.arbitroalogo); //or any other drawable
         configSplash.setAnimLogoSplashDuration(2000); //int ms
         configSplash.setAnimLogoSplashTechnique(Techniques.BounceInDown); //choose one form Techniques (ref: https://github.com/daimajia/AndroidViewAnimations)
 
 
 
         //Customize Title
-        configSplash.setTitleSplash("Arbitro android app");
+        configSplash.setTitleSplash("  ");
         configSplash.setTitleTextColor(android.R.color.white);
         configSplash.setTitleTextSize(30f); //float value
         configSplash.setAnimTitleDuration(3000);
