@@ -55,6 +55,7 @@
             android:background="@drawable/nextcircle"
             android:hapticFeedbackEnabled="true"
             android:text="N E X T"
+            android:onClick="next"
             android:textColor="@color/colorPrimary"
             android:textSize="18sp" />
 

@@ -3,4 +3,5 @@
     <color name="colorPrimary">#1751F4</color>
     <color name="colorPrimaryDark">#5EC2EC</color>
     <color name="colorAccent">#8BC34A</color>
+    <color name="apikeycolor">#2F3B48</color>
 </resources>
