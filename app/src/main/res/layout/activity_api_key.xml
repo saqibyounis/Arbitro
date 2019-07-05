@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/apikeycolor"
+    android:background="@color/colorPrimary"
     tools:context=".activities.ApiKeyAct">
 
     <RelativeLayout
@@ -38,7 +38,7 @@
             android:layout_marginEnd="5dp"
             android:layout_marginBottom="5dp"
             android:onClick="create"
-            app:srcCompat="@drawable/addicon" />
+            app:srcCompat="@drawable/addiconwhite" />
 
         <ImageView
             android:id="@+id/imageView4"
